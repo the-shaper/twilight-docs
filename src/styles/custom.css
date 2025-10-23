@@ -1,0 +1,157 @@
+/* src/styles/custom.css */
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+/* Define custom properties in a layer that loads after Starlight's base */
+
+:root {
+  --sl-font-sans: "Andale Mono", "Space Mono", monospace;
+  --sl-font-mono: "Andale Mono", "Space Mono", monospace;
+  --sl-font-display: "Neue Haas Grotesk Display", sans-serif;
+
+  /* Light mode colors: Use Starlight's variable naming convention */
+  --sl-color-accent-low: #c7d6ff; /* accent-low (lightest) */
+  --sl-color-accent: #ff3d23; /* accent (main) */
+  --sl-color-accent-high: #0189d7; /* accent-high (darkest) */
+
+  --sl-color-gray-1: #f6fff7; /* lightest */
+  --sl-color-gray-2: #484f4f;
+  --sl-color-gray-3: #6a8689;
+  --sl-color-gray-4: #6a8689;
+  --sl-color-gray-5: #545861;
+  --sl-color-gray-6: #c6d9d1; /* darkest */
+
+  /* Override Starlight's default text and background colors */
+  --sl-color-text: #1a1515; /* Dark text on light */
+  --sl-color-bg: #edf7ee; /* Light bg */
+  --sl-color-bg-nav: #edf7ee;
+  --sl-color-bg-sidebar: #edf7ee;
+
+  /* Layout: Global content width */
+}
+
+[data-theme="dark"] {
+  /* Dark mode colors: Use Starlight's variable naming convention */
+  --sl-color-accent-low: #131e4f; /* accent-low (darkest) */
+  --sl-color-accent: #a0ff34; /* accent (main) - bright green */
+  --sl-color-accent-high: #b3c7ff; /* accent-high (lightest) */
+
+  --sl-color-gray-1: #eceef2; /* lightest */
+  --sl-color-gray-2: #c0c2c7;
+  --sl-color-gray-3: #888b96;
+  --sl-color-gray-4: #545861;
+  --sl-color-gray-5: #353841;
+  --sl-color-gray-6: #24272f; /* darkest */
+
+  /* Dark mode text and background */
+  --sl-color-text: #ffffff; /* Light text on dark */
+  --sl-color-bg: #17181c; /* Dark bg */
+  --sl-color-bg-nav: #17181c;
+  --sl-color-bg-sidebar: #17181c;
+}
+
+/* Overrides without layer to ensure higher specificity */
+/* Layout: Full viewport */
+html,
+body {
+  min-height: 100vh;
+  width: 100vw;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+}
+.sl-content-wrapper {
+  width: 100vw;
+  max-width: none;
+}
+
+/* Fonts: Explicit if vars don't propagate fully */
+body {
+  font-family: var(--sl-font-sans);
+}
+code,
+pre {
+  font-family: var(--sl-font-mono);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+}
+
+/* Visibility: Override any reset hiddens */
+* {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+.sl-sidebar,
+.sl-button,
+.sl-theme-toggle,
+.sl-search-field,
+.sl-toc {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.sidebar-content {
+  text-transform: uppercase;
+}
+
+p,
+li {
+  font-size: 0.9rem;
+  letter-spacing: -0.5px;
+}
+
+h1 {
+  font-size: 1.8rem;
+  font-family: "Neue Haas Grotesk Display";
+  font-weight: 700;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-family: "Neue Haas Grotesk Display";
+  font-weight: 300;
+  font-style: normal;
+  text-transform: none;
+}
+
+h3 {
+  font-size: 1.2rem;
+  color: var(--sl-color-gray-3);
+}
+
+/* No rounds per Figma */
+* {
+  border-radius: 0 !important;
+}
+
+/* Title size */
+.sl-page-title {
+  font-size: 3.5rem;
+}
+
+.sl-anchor-link {
+  font-size: 1.3rem;
+}
+
+.astro-26yz4z6b {
+  text-transform: uppercase;
+}
+
+.link-title.astro-q76ylm5u {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
+.group-label.astro-e2vm3xog {
+  font-family: "Neue Haas Grotesk Display";
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+}
