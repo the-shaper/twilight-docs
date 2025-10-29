@@ -4,8 +4,6 @@ sidebar:
   order: 6
 ---
 
-# Craft
-
 Our skills are our toolbox as Creative Producers. We have divided them in two packages: **Generator** and **Dreamcaster**
 
 ## Skill Levels

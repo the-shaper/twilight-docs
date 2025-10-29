@@ -43,10 +43,9 @@ We will seek to communicate this clearly as soon as we assess, giving a proposed
 
 ```
 Example:
-
-GOAL
-- CHUNK
-  - TASK
+- GOAL
+  - CHUNK
+    - TASK
 
 - Create a new landing page for my new toy company
   - Planification & Research
@@ -58,6 +57,7 @@ GOAL
     - Design desktop wireframes for Y and Z sections
     - Design mobile wireframes for W and X sections
     - etc, etc.
+
 ```
 
 ## Checkpoint Deliverables

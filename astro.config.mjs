@@ -10,9 +10,14 @@ export default defineConfig({
       title: "TWILIGHT DOCS", // Update to your site name
       social: [
         {
-          icon: "github",
-          label: "GitHub",
-          href: "https://github.com/your-org/twilight-docs", // Update to your repo
+          icon: "star",
+          label: "Twilight Fringe",
+          href: "https://twilightfringe.com",
+        },
+        {
+          icon: "email",
+          label: "Email",
+          href: "mailto:create@twilightfringe.com",
         },
         // Add more social if needed
       ],

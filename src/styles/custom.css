@@ -7,6 +7,7 @@
   --sl-font-sans: "Andale Mono", "Space Mono", monospace;
   --sl-font-mono: "Andale Mono", "Space Mono", monospace;
   --sl-font-display: "Neue Haas Grotesk Display", sans-serif;
+  --pagefind-ui-text: var(--sl-font-sans);
 
   /* Light mode colors: Use Starlight's variable naming convention */
   --sl-color-accent-low: #c7d6ff; /* accent-low (lightest) */
@@ -32,21 +33,55 @@
 [data-theme="dark"] {
   /* Dark mode colors: Use Starlight's variable naming convention */
   --sl-color-accent-low: #131e4f; /* accent-low (darkest) */
-  --sl-color-accent: #a0ff34; /* accent (main) - bright green */
-  --sl-color-accent-high: #b3c7ff; /* accent-high (lightest) */
+  --sl-color-accent: #eaff36; /* accent (main) - bright green */
+  --sl-color-accent-high: #ff3d23; /* accent-high (lightest) */
 
-  --sl-color-gray-1: #eceef2; /* lightest */
-  --sl-color-gray-2: #c0c2c7;
-  --sl-color-gray-3: #888b96;
-  --sl-color-gray-4: #545861;
-  --sl-color-gray-5: #353841;
-  --sl-color-gray-6: #24272f; /* darkest */
+  --sl-color-gray-1: #f6fff7; /* lightest */
+  --sl-color-gray-2: #484f4f;
+  --sl-color-gray-3: #6a8689;
+  --sl-color-gray-4: #6a8689;
+  --sl-color-gray-5: #545861;
+  --sl-color-gray-6: #172821; /* darkest */
 
   /* Dark mode text and background */
-  --sl-color-text: #ffffff; /* Light text on dark */
-  --sl-color-bg: #17181c; /* Dark bg */
-  --sl-color-bg-nav: #17181c;
-  --sl-color-bg-sidebar: #17181c;
+  --sl-color-text: #edf7ee; /* Light text on dark */
+  --sl-color-bg: #1a1515; /* Dark bg */
+  --sl-color-bg-nav: #1a1515;
+  --sl-color-bg-sidebar: #1a1515;
+
+  h2 {
+    color: #d1e7de;
+  }
+
+  h3 {
+    color: var(--sl-color-accent-high);
+  }
+
+  ::selection {
+    background: #eaff36;
+    color: black;
+    text-shadow: none;
+  }
+
+  .astro-e2vm3xog li a {
+    color: var(--sl-color-text);
+  }
+
+  .astro-e2vm3xog li a:hover {
+    color: var(--sl-color-accent);
+  }
+
+  :where(.astro-e2vm3xog)[aria-current="page"]:focus {
+    color: var(--sl-color-text) !important;
+  }
+
+  .astro-xd5ddlc3:hover {
+    color: var(--sl-color-accent);
+  }
+
+  .tagline.astro-uysen5dn {
+    color: var(--sl-color-gray-3);
+  }
 }
 
 /* Overrides without layer to ensure higher specificity */
@@ -83,18 +118,18 @@ h6 {
 }
 
 /* Visibility: Override any reset hiddens */
-* {
+/* * {
   visibility: visible !important;
   opacity: 1 !important;
-}
+} */
 .sl-sidebar,
 .sl-button,
 .sl-theme-toggle,
 .sl-search-field,
-.sl-toc {
+/* .sl-toc {
   visibility: visible !important;
   opacity: 1 !important;
-}
+} */
 
 .sidebar-content {
   text-transform: uppercase;
@@ -154,4 +189,21 @@ h3 {
   font-weight: 700;
   font-style: normal;
   text-transform: uppercase;
+}
+
+.astro-xd5ddlc3 {
+  color: var(--sl-color-gray-3);
+}
+
+.astro-xd5ddlc3:hover {
+  color: var(--sl-color-accent);
+}
+
+.astro-xmwfy22c {
+  font-family: "Neue Haas Grotesk Display";
+}
+
+.sl-link-button.not-content.primary.astro-uysen5dn.astro-xtvjwcov {
+  text-transform: uppercase;
+  color: var(--sl-color-text);
 }

@@ -4,7 +4,7 @@ sidebar:
   order: 1
 ---
 
-Anything You Want is a creative production service designed for visionaries and risk-takers operating at the margins of knowledge, culture, and society. We call these people "Founders at the Fringe."
+Anything You Want is a creative production service designed for visionary builders operating at the margins of knowledge, culture, and society. We call these people "Founders at the Fringe."
 
 ## Who is this for?
 
@@ -43,9 +43,9 @@ We deliver progress through regular checkpoints (typically Tuesday/Friday), prov
 
 ## Why we exist
 
-We started Twilight Fringe on a clean slate, ditching our past to build something new. Our website and its components are our first portfolio statement—every part created by our founder, Alejandro Alarcon.
+We started Twilight Fringe on a clean slate, ditching our past to build something new. Our website and its components are our first portfolio statement—every part created by our founder, [Alejandro Alarcon](https://alejandroalarcon.ink).
 
-We believe people like us build for people like us. If you're pushing boundaries and need creative partners who understand the journey, Anything You Want is designed for you.
+We believe people like us build for people like us. If you're exploring uncharted territories and need creative partners to help you navigate through the journey, Anything You Want is designed for you.
 
 ---
 
@@ -53,7 +53,7 @@ We believe people like us build for people like us. If you're pushing boundaries
 
 ## See also
 
-- [Pricing, Value & Payment](./pricing-value-payment.md)
-- [Scope & Deliverables](./scope-deliverables.md)
-- [Membership Mechanics](./membership-mechanics.md)
-- [Energy Tiers](./energy-tiers.md)
+- [Pricing, Value & Payment](./pricing-value-payment)
+- [Scope & Deliverables](./scope-deliverables)
+- [Membership Mechanics](./membership-mechanics)
+- [Energy Tiers](./energy-tiers/)
