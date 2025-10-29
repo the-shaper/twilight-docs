@@ -152,6 +152,6 @@ You can upgrade or downgrade your energy tier with 3 days' notice before renewal
 
 ## See also
 
-- [Pricing, Value & Payment](./pricing-value-payment.md)
-- [Process & Communication](./process-communication.md)
-- [Scope & Deliverables](./scope-deliverables.md)
+- [Pricing, Value & Payment](/ayw/pricing-value-payment/)
+- [Process & Communication](/ayw/process-communication/)
+- [Scope & Deliverables](/ayw/scope-deliverables/)

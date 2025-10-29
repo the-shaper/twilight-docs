@@ -207,3 +207,8 @@ h3 {
   text-transform: uppercase;
   color: var(--sl-color-text);
 }
+
+.pagefind-ui__search-input.svelte-e9gkc3,
+.pagefind-ui__result-inner.svelte-4xnkmf {
+  background-color: var(--sl-color-gray-1);
+}

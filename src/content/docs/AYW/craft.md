@@ -226,6 +226,6 @@ Most likely, yes. You can reach out to confirm beforehand.
 
 ## See also
 
-- [Scope & Deliverables](./scope-deliverables.md)
-- [Energy Tiers](./energy-tiers.md)
-- [Pricing, Value & Payment](./pricing-value-payment.md)
+- [Scope & Deliverables](/ayw/scope-deliverables)
+- [Energy Tiers](/ayw/energy-tiers)
+- [Pricing, Value & Payment](/ayw/pricing-value-payment)

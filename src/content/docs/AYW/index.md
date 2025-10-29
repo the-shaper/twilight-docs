@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Intro – Anything You Want
 sidebar:
   order: 1
 ---
@@ -53,7 +53,7 @@ We believe people like us build for people like us. If you're exploring uncharte
 
 ## See also
 
-- [Pricing, Value & Payment](./pricing-value-payment)
-- [Scope & Deliverables](./scope-deliverables)
-- [Membership Mechanics](./membership-mechanics)
-- [Energy Tiers](./energy-tiers/)
+- [Pricing, Value & Payment](../pricing-value-payment)
+- [Scope & Deliverables](../scope-deliverables)
+- [Membership Mechanics](../membership-mechanics)
+- [Energy Tiers](../energy-tiers/)

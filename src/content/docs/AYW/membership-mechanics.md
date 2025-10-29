@@ -159,6 +159,7 @@ If billing attempts fail:
 
 ## See also
 
-- [Pricing, Value & Payment](./pricing-value-payment.md)
-- [Energy Tiers](./energy-tiers.md)
-- [Process & Communication](./process-communication.md)
+- [Craft](/ayw/craft)
+- [Energy Tiers](/ayw/energy-tiers)
+- [Process & Communication](/ayw/process-communication)
+- [Pricing, Value & Payment](/ayw/pricing-value-payment)

@@ -139,6 +139,6 @@ In case you need to pay for a Vercel, Webflow, Framer, Dropbox, etc account, for
 
 ## See also
 
-- [Process & Communication](./process-communication.md)
-- [Quality & Accountability](./quality-accountability.md)
-- [Pricing, Value & Payment](./pricing-value-payment.md)
+- [Process & Communication](/ayw/process-communication)
+- [Quality & Accountability](/ayw/quality-accountability)
+- [Pricing, Value & Payment](/ayw/pricing-value-payment)

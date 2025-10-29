@@ -149,17 +149,23 @@ We're flexible! The categories are guides, not rigid boxes. We can:
 - Adapt processes to your workflow
 - Create hybrid solutions when needed
 
+### What's up with the name?
+
+Anything You Want is a nod to a [book](https://sive.rs/a) with the same title, written by [Derek Sivers](https://siv.ers)
+
+Why? Because the ideas it contains had a big influence in the creation of Twilight Fringe. Because in a world of "growth experts" and metric-based creativity, we want to be—and create–with people who choose to follow their hearts and gut rather than what the numbers and best practices tell them to. We believe this is the space where the best ideas are born and the world gets better because of it.
+
 ---
 
 [Back to top](#)
 
 ## Related Topics
 
-- [Introduction](./index.md) - Overview of Anything You Want
-- [Pricing, Value & Payment](./pricing-value-payment.md) - Detailed pricing information
-- [Scope & Deliverables](./scope-deliverables.md) - How we work and what we deliver
-- [Process & Communication](./process-communication.md) - Collaboration methods
-- [Membership Mechanics](./membership-mechanics.md) - Application and management
-- [Craft](./craft.md) - Skills and capabilities
-- [Energy Tiers](./energy-tiers.md) - Generator vs Reactor comparison
-- [Quality & Accountability](./quality-accountability.md) - Our guarantees and policies
+- [Introduction](..) - Overview of Anything You Want
+- [Pricing, Value & Payment](/ayw/pricing-value-payment) - Detailed pricing information
+- [Scope & Deliverables](/ayw/scope-deliverables) - How we work and what we deliver
+- [Process & Communication](/ayw/process-communication) - Collaboration methods
+- [Membership Mechanics](/ayw/membership-mechanics) - Application and management
+- [Craft](/ayw/craft) - Skills and capabilities
+- [Energy Tiers](/ayw/energy-tiers) - Generator vs Reactor comparison
+- [Quality & Accountability](/ayw/quality-accountability) - Our guarantees and policies

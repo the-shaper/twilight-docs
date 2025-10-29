@@ -153,6 +153,6 @@ If we cannot resolve issues directly:
 
 ## See also
 
-- [Scope & Deliverables](./scope-deliverables.md)
-- [Process & Communication](./process-communication.md)
-- [Membership Mechanics](./membership-mechanics.md)
+- [Scope & Deliverables](/ayw/scope-deliverables)
+- [Process & Communication](/ayw/process-communication)
+- [Membership Mechanics](/ayw/membership-mechanics)

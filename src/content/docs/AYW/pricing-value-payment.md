@@ -100,6 +100,6 @@ It gets prepared and delivered to you as-is, or up to the state it got until the
 
 ## See also
 
-- [Membership Mechanics](./membership-mechanics.md)
-- [Energy Tiers](./energy-tiers.md)
-- [Scope & Deliverables](./scope-deliverables.md)
+- [Membership Mechanics](/ayw/membership-mechanics)
+- [Energy Tiers](/ayw/energy-tiers)
+- [Scope & Deliverables](/ayw/scope-deliverables)

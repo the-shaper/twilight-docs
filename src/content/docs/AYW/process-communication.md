@@ -126,6 +126,6 @@ We keep this information visually accessible in our Trello board, and we also in
 
 ## See also
 
-- [Scope & Deliverables](./scope-deliverables.md)
-- [Energy Tiers](./energy-tiers.md)
-- [Membership Mechanics](./membership-mechanics.md)
+- [Scope & Deliverables](/ayw/scope-deliverables)
+- [Energy Tiers](/ayw/energy-tiers)
+- [Membership Mechanics](/ayw/membership-mechanics)
