@@ -10,13 +10,15 @@ sidebar:
 
 **What do you evaluate?**
 
-- Affinity: Do you work in an industry or field where we genuinely feel we can provide value to?
+- Affinity: Do you work in an industry or field where we genuinely feel we can add value to?
+- Compatibility: Are our work dynamics, pace of work and general processes complatible with yours? If not, what would need to change?
+- Ownership and communication: Are you able to articulate and clearly communicate your objectives?
 
 **How long until I hear back?**
 Around 24-48 hours from submission time.
 
 **What if I'm rejected?**
-We will notify you too
+We will notify you too and we will explain why.
 
 ## What Makes a Good Application
 
@@ -25,7 +27,8 @@ Be clear about what you do and what you are up to. This is important for us beca
 ### Who is this service NOT for?
 
 - Politicians and political activists
-- Committees
+- Committees (Or groups where there is no head decision-maker)
+- People trying to save a bad product with nice "aesthetics"
 
 ## Founders at the Fringe
 

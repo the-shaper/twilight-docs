@@ -15,7 +15,7 @@
   --sl-color-accent-high: #0189d7; /* accent-high (darkest) */
 
   --sl-color-gray-1: #f6fff7; /* lightest */
-  --sl-color-gray-2: #484f4f;
+  --sl-color-gray-2: #718b8b;
   --sl-color-gray-3: #6a8689;
   --sl-color-gray-4: #6a8689;
   --sl-color-gray-5: #545861;
@@ -55,12 +55,6 @@
 
   h3 {
     color: var(--sl-color-accent-high);
-  }
-
-  ::selection {
-    background: #eaff36;
-    color: black;
-    text-shadow: none;
   }
 
   .astro-e2vm3xog li a {
@@ -206,4 +200,20 @@ h3 {
 .sl-link-button.not-content.primary.astro-uysen5dn.astro-xtvjwcov {
   text-transform: uppercase;
   color: var(--sl-color-text);
+}
+
+#starlight__search .pagefind-ui__search-input {
+  background-color: var(--sl-color-gray-1);
+  color: var(--sl-color-text);
+}
+
+[data-theme="dark"] #starlight__search .pagefind-ui__search-input {
+  background-color: var(--sl-color-gray-6);
+  color: var(--sl-color-text);
+}
+
+::selection {
+  background: #eaff36;
+  color: black;
+  text-shadow: none;
 }

@@ -76,10 +76,14 @@ This really depends on the work you're doing and the pace you're moving at. Havi
 **Launching a full campaign?**
 
 - ~ 1 month to do research, concept development and ideation
-- - ~2-3 months If it requires video and/or 3d, motion graphics, etc:
-- - ~ 1 month if it requires static graphics for social media
-- - ~ 2 months if it requires printed materials like t-shirts and hats
-- +~ 1 month if it requires a landing page
+
+  Plus
+
+  - ~2-3 months If it requires video and/or 3d, motion graphics, etc.
+  - ~ 1 month if it requires static graphics for social media
+  - ~ 2 months if it requires printed materials like t-shirts and hats
+  - +~ 1 month if it requires a landing page
+
   Total w/ Generator: ~6-8 Months
   Total w/ Reactor: ~3-4 Months
 

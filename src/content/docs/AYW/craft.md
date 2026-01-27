@@ -10,9 +10,10 @@ Our skills are our toolbox as Creative Producers. We have divided them in two pa
 
 Levels signal progression and complexity in the development process.
 
-- **Level 1 Services** are considered as a logical first steps in brand building.
-- **Level 2 Services** can be considered a logical evolution of the work in level 1.
-- And so on with levels 3 and 4.
+- **Level 1 Services: Initiation** is the work considered as a logical first steps in brand building. A solid conceptual foundation.
+- **Level 2 Services: Launchpad** can be considered a logical evolution of the work in level 1. The base from which to launch.
+- **Level 3 Services: Broadcasting** is best applied once your ideas have gained traction. Time to expand your reach and communicate in more engaging ways with your people.
+- **Level 4 Services: Dreamcasting** focuses on highly-technical experience design, going from brand-building to world-building.
 
 ## Generator: Levels 1 & 2
 
