@@ -113,7 +113,7 @@ We maintain a limit of 3 seats to ensure quality delivery doesn't suffer as we g
 
 As we grow and prove our ability to maintain quality while increasing capacity, we may:
 
-- Open additional seats in batches of 3
+- Open additional seats
 - Adjust pricing based on demand
 - Implement new tiers or services
 
@@ -127,8 +127,8 @@ As we grow and prove our ability to maintain quality while increasing capacity, 
 
 ### Payment Methods
 
-- **Standard**: Stripe (credit card, bank transfer)
-- **Preferred**: Bitcoin (with 20% discount for 3-month prepayment)
+- **Stripe**: Stripe (credit card, bank transfer)
+- **Bitcoin**: Bitcoin (with 20% discount for 3-month prepayment)
 
 ### Failed Payments
 

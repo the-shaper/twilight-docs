@@ -57,7 +57,7 @@ POW! Stands for "Proof of Work!". It gives you an extra 20% discount when pre-pa
 
 We made this initiative because:
 
-1. We are launching with zero (0) portfolio
+1. This is a new venture. This extra discount is a form of gratitude to your multi-term commitment.
 2. We want to work only with people with aligned pursuits. Decentralization and self-sovereignty are key to us.
 
 ### Grant Details
@@ -71,7 +71,8 @@ Absolutely. It gets combined by default.
 ## Refund Policy
 
 **Can I get a refund if I'm not satisfied?**
-If after your first month, you genuinely feel dissatisfied with the work we produced, we will give you the next month for free.
+
+We don't give refunds. However, if after your first month, you genuinely feel dissatisfied with the work we produced, we will give you the next month for free.
 
 **Is there a trial period?**
 We don't offer trial periods as our current base pricing is already subsidized.

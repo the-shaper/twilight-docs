@@ -4,47 +4,53 @@ sidebar:
   order: 3
 ---
 
-## Task Definition
+## Checkpoint Definition
+
+A Checkpoint is a delivery loop. We deliver progress twice a week–suggested to be on Tuesdays and Fridays.
+
+What get's delivered on a checkpoint depends on the scope. If a task is small–like designing a small UI component or creating mockups, marketing graphics, etc– it can be done in a single checkpoint. If a task is bigger–like designing a full website or a brand identity– it will be broken down into smaller milestones, delivered across checkpoints.
+
+## Tasks Definition
 
 A task can start with something as simple as designing a "flyer" or as complex as "designing a UI/UX system". The former is fine as a "task", the latter is better defined as a "goal".
 
-Before deciding–and defining–a task, we should define goals. From there, we will list all the necessary steps –or individual tasks– one needs to take in order to achieve such goal. Then, we will categorize the tasks into "chunks" of tasks that cover specific parts of a project.
+Before deciding–and defining–a task, we should define goals. From there, we will list all the necessary steps –or individual tasks– one needs to take in order to achieve such goal. Then, we will categorize the tasks into "milestones" of tasks that cover specific parts of a project.
 
 We will tackle tasks in order of importance (decided by you first, and by us if you're busy and/or agile decision making is needed).
 
 ### Task Complexity
 
 **What's the complexity limit for one task?**
-This is something we try to assess on a per-task basis and aim for full transparency of this. Sometimes, a single delivery loop will be able to achieve a goal or finish a "chunk" of tasks, while other times, a single task will be enough to keep us busy for 48+ hours.
+This is something we try to assess on a per-task basis and aim for full transparency of this. Sometimes, a single delivery loop will be able to achieve a goal or finish a "milestone"–or a chunk of tasks, while other times, a single task will be enough to keep us busy for 48+ hours.
 
 **Examples:**
 
-- **1 Flyer → 1 Checkpoint**: Between 2-3 design proposals presented. Delivered on the same day if approved or minimal corrections are given. Delivered on next checkpoint if creative redirection is needed.
+- **1 Flyer → 1 Checkpoint**: Between 2-3 design proposals presented. Delivered on Checkpoint day if approved or minimal corrections are given. Revisions will be delivered on the next checkpoint if a full creative redirection is needed.
 - **1 Landing page UI design → 3 Checkpoints**:
   - Checkpoint 1: A sheet of different wireframes or semi-styled layout options for the page.
   - Checkpoint 2: A sheet of styled layouts with different alternatives, based on the selection made on Checkpoint 1
   - Checkpoint 3: Final design + Figma build files, based on feedback from Checkpoint 2.
 - **Developing a visual brand Identity → 8-12 Checkpoints**:
-  - Chunk 1: Checkpoints 1-2: Understanding the brand and the world it lives in (Research and reference gathering)
-  - Chunk 2: Checkpoints 3-6: Ideation phase; Voice + Look & Feel
-  - Chunk 3: Checkpoints 7-8: Design & visual development
-  - Chunk 4: Checkpoints 8-12: Final adjustments and testing
+  - Milestone 1: Checkpoints 1-2: Understanding the brand and the world it lives in (Research and reference gathering)
+  - Milestone 2: Checkpoints 3-6: Ideation phase; Voice + Look & Feel
+  - Milestone 3: Checkpoints 7-8: Design & visual development
+  - Milestone 4: Checkpoints 8-12: Final adjustments and testing
 
 **What if my task is more complex than estimated?**
 We will seek to communicate this clearly as soon as we assess, giving a proposed plan update with realistic time estimates.
 
-## Goal, Chunk, Task Hierarchy
+## Goal, Milestone, Task Hierarchy
 
-**What's the difference between a "goal," "chunk," and "task"?**
+**What's the difference between a "goal," "milestone," and "task"?**
 
 - A Goal is an overarching objective or project
-- A Chunk is a compartmentalized group of tasks
+- A Milestone is a compartmentalized group of tasks
 - A Task is the smallest measure of progress towards reaching a goal.
 
 ```
 Example:
 - GOAL
-  - CHUNK
+  - MILESTONE
     - TASK
 
 - Create a new landing page for my new toy company
