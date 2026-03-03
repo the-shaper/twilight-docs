@@ -19,7 +19,7 @@ Levels signal progression and complexity in the development process.
 
 Initiation covers all the bases for launching brands and/or intellectual property.
 
-This is work mostly done by the core Twilight Fringe team
+This is work mostly done by the core Twilight Fringe team.
 
 ## Dreamcaster: Levels 3 & 4
 
@@ -32,8 +32,8 @@ This is work directed by the core Twilight Fringe team + a specialized talent wi
 |        | Brand DNA           | Visual ID                  | Digital Interface     | Physical Interface |
 | ------ | ------------------- | -------------------------- | --------------------- | ------------------ |
 | Lvl. 1 | Concept Development | Visual Development         | UI/UX Design          | Packaging & Merch  |
-| Lvl. 2 | Brand strategy      | Brand ID Systems           | Webflow Development   | Ad & Editorial     |
-| Lvl. 3 | Comms Strategy      | Motion & Animation         | Front End Development | Spatial Design     |
+| Lvl. 2 | Brand strategy      | Brand ID Systems           | Websites              | Ad & Editorial     |
+| Lvl. 3 | Comms Strategy      | Motion & Animation         | App Prototyping       | Spatial Design     |
 | Lvl. 4 | Product R&D         | CGI & 3D Asset Development | AR/VR/XR Interfaces   | Industrial Design  |
 
 ## Skill Descriptions
@@ -107,19 +107,20 @@ This is work directed by the core Twilight Fringe team + a specialized talent wi
 - Wireframing
 - Prototyping
 
-**Level 2: Webflow Development**
+**Level 2: Websites**
 
-- Webflow website building
+- Website design
+- Website development
 - CMS implementation
 - Responsive design
 - Basic interactions
 
-**Level 3: Front End Development**
+**Level 3: App Prototyping**
 
-- Custom web development
+- App design
+- Working prototypes
 - Advanced interactions
-- API integration
-- Performance optimization
+- API integrations
 
 **Level 4: AR/VR/XR Interfaces**
 
